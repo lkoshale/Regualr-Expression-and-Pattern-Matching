@@ -1,6 +1,6 @@
 
 /**
-cs15b049
+take a regex as input with functions as |(or) *(klene clousre) and ab(as a.b  concatenation)
 */
 
 #include<iostream>
